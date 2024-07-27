@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kavin81
-- 👀 I’m interested in UI/UX & python 
-- 🌱 I’m currently learning svelte-kit
+- 👀 I’m interested in ___
+- 🌱 I’m currently learning __
 
 <div align=center>
 
